@@ -1,5 +1,5 @@
 # Image Compression & Segmentation: DCT and K-Means from Scratch 🖼️
-This project was developed as a Master's Lab project in Computer Vision focusing on two fundamental image processing techniques implemented entirely from scratch:
+This project was developed as a Master's Lab project in Image Processing and Computer Vision, focusing on two fundamental image processing techniques implemented entirely from scratch:
 - **Discrete Cosine Transform (DCT):** A lossy image compression algorithm (similar to JPEG) that transforms images from spatial to frequency domain
 - **K-Means Clustering:** An unsupervised segmentation algorithm that partitions images into K distinct regions based on pixel intensity
 
